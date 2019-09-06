@@ -1,0 +1,54 @@
+<html>
+
+<head>
+	<meta charset="UTF-8">
+
+</head>
+
+<body>
+	<style>
+		#cw_container {
+			width: 500px;
+			height: 705px;
+			margin: 20px 0;
+			display: inline-block;
+			vertical-align: top;
+		}
+
+		* {
+			cursor: default;
+		}
+
+		*:focus {
+			outline: none;
+		}
+
+		svg {
+			font-family: sans-serif;
+		}
+	</style>
+	<div id="wrapper" style="max-width: 1000px; margin: 20px auto;">
+		<div id="cw_container">
+			<button type="button" onclick='checkPuzzle()'>Show errors</button>
+			<button type=" button" onclick="resetPuzzle()">Restart</button>
+			<svg id="crossword" viewBox="0 0 605 605"></svg>
+		</div>
+		<div id="cluelist" style="max-width: 300px; margin: 0 auto; display: inline-block;">
+			<div style="width: 46%; display: inline-block; vertical-align: top;">
+				<h4 style="margin-bottom: 0.25em;">ACROSS</h4>
+				<div id="cluesacross" style="height: 500px; overflow: scroll;">
+				</div>
+			</div>
+			<div style="width: 46%; display: inline-block; vertical-align: top;">
+				<h4 style="margin-bottom: 0.25em;">DOWN</h4>
+				<div id="cluesdown" style="height: 500px; overflow: scroll;">
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="https://d3js.org/d3.v4.min.js"></script>
+	<script src="javascripts/grid.js"></script>
+</body>
+
+</html>

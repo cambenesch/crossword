@@ -1,0 +1,1 @@
+DEBUG=prac:* npm start
