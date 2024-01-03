@@ -12,7 +12,7 @@
 #include <Wt/WCheckBox.h>
 #include <Wt/WLineEdit.h>
 #include <Wt/WMessageBox.h>
-#include <Wt/>
+//#include <Wt/>
 #include <chrono>
 #include <thread>
 #include <cctype>
@@ -288,10 +288,10 @@ HelloApplication::HelloApplication(const Wt::WEnvironment& env)
     }
 
     // default widgets
-    root()->addNew<Wt::WText>("Your fucking name, please? ");
+    root()->addNew<Wt::WText>("Your name, please? ");
     nameEdit_ = root()->addNew<Wt::WLineEdit>();
     Wt::WPushButton* button = root()->
-        addNew<Wt::WPushButton>("Greet me, daddy.");
+        addNew<Wt::WPushButton>("Greet me.");
     root()->addNew<Wt::WBreak>();
 
     // crossword widget

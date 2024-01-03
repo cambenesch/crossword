@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\yowza\source\repos\Capp1\x64\Debug\xword.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advhr\rule.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advimage\image.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advlink\link.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\emotions\emotions.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\example\dialog.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\fullpage\fullpage.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\fullscreen\fullscreen.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\inlinepopups\template.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\media\media.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\paste\pastetext.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\paste\pasteword.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\searchreplace\searchreplace.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\style\props.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\cell.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\merge_cells.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\row.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\table.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\template\blank.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\template\template.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\abbr.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\acronym.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\attributes.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\cite.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\del.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\ins.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\about.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\anchor.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\charmap.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\color_picker.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\image.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\link.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\shortcuts.htm</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\source_editor.htm</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
