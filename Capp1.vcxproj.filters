@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advhr\rule.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advimage\image.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\advlink\link.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\emotions\emotions.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\example\dialog.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\fullpage\fullpage.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\fullscreen\fullscreen.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\inlinepopups\template.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\media\media.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\paste\pastetext.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\paste\pasteword.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\preview\example.html">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\preview\preview.html">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\searchreplace\searchreplace.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\style\props.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\cell.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\merge_cells.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\row.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\table\table.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\template\blank.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\template\template.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\abbr.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\acronym.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\attributes.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\cite.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\del.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\plugins\xhtmlxtras\ins.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\about.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\anchor.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\charmap.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\color_picker.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\image.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\link.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\shortcuts.htm">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="..\..\..\..\..\Program Files\Wt 4.10.3 msvs2017 x64\lib\share\Wt\resources\tiny_mce\themes\advanced\source_editor.htm">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

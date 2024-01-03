@@ -1,4 +1,0 @@
-# ignore all files and folders starting with .
-.*
-!/.gitignore
-
